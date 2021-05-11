@@ -6,9 +6,9 @@
 [NextJS](https://nextjs.org/docs/getting-started)
 [React Cheatsheet](https://devhints.io/react)
 ## Code Playgrounds
-- [CodePen](http://codepen.io/)
-- [CodeSandbox](https://codesandbox.io/s/new)
-- [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
+[CodePen](http://codepen.io/)
+[CodeSandbox](https://codesandbox.io/s/new)
+[JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
 ## Marketing Resources
 ## Javascript Resources
 ## Podcasts
